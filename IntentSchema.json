@@ -1,0 +1,48 @@
+{
+  "intents": [
+    {
+      "intent": "AlarmCancel"
+    },
+    {
+      "intent": "EastereggMeaning_of_life"
+    },
+    {
+      "intent": "EastereggWoodchuck"
+    },
+    {
+      "intent": "AlarmConfirm"
+    },
+    {
+      "intent": "EastereggWhy_chicken_cross_road"
+    },
+    {
+      "intent": "WhatIsTrevor"
+    },
+    {
+      "intent": "EastereggFox_sounds"
+    },
+    {
+      "intent": "DefineSuccess"
+    },
+    {
+      "intent": "AlarmSet",
+      "slots": [
+        {
+          "name": "recurrenceslot",
+          "type": "RECURRENCE"
+        },
+        {
+          "name": "timeslot",
+          "type": "AMAZON.TIME"
+        },
+        {
+          "name": "dateslot",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    },
+    {
+      "intent": "SeeYa"
+    }
+  ]
+}

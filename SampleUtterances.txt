@@ -1,0 +1,69 @@
+AlarmCancel	cancel
+AlarmCancel	cancel it
+AlarmCancel	don't set it
+AlarmCancel	i don't want to set an alarm
+AlarmCancel	i ve changed my mind
+AlarmCancel	i've changed my mind
+AlarmCancel	no
+AlarmCancel	no no
+EastereggMeaning_of_life	can you tell me the meaning of life
+EastereggMeaning_of_life	do you know the meaning of life
+EastereggMeaning_of_life	life meaning
+EastereggMeaning_of_life	show me the meaning of life
+EastereggMeaning_of_life	so what is the meaning of life
+EastereggMeaning_of_life	tell me the meaning of life
+EastereggMeaning_of_life	the meaning of life
+EastereggMeaning_of_life	what's the meaning of life
+EastereggMeaning_of_life	what's the meaning of life the universe and everything
+EastereggWoodchuck	can you say how many wood could a woodchuck chuck
+EastereggWoodchuck	do you know how much wood would a woodchuck chuck
+EastereggWoodchuck	find out how much wood would a woodchuck chuck
+EastereggWoodchuck	how many chucks would a woodchuck chuck
+EastereggWoodchuck	how many chucks would a woodchuck chuck if a woodchuck could chuck wood
+EastereggWoodchuck	how much chuck could a woodchuck chuck if a woodchuck could chuck wood
+EastereggWoodchuck	how much wood does woodchuck chuck
+EastereggWoodchuck	please tell how much could a woodchuck chuck if a woodchuck could chuck wood
+EastereggWoodchuck	tell me how many times would a woodchuck chuck wood if a woodchuck would chuck wood
+AlarmConfirm	confirm
+AlarmConfirm	confirmed
+AlarmConfirm	fine
+AlarmConfirm	good
+AlarmConfirm	ok
+AlarmConfirm	right
+AlarmConfirm	yeah
+AlarmConfirm	yes
+EastereggWhy_chicken_cross_road	but why did the chicken cross the road
+EastereggWhy_chicken_cross_road	can you tell me why the chicken crosses the road
+EastereggWhy_chicken_cross_road	do you know why the chicken crosses the road
+EastereggWhy_chicken_cross_road	so why did the chicken cross the road
+EastereggWhy_chicken_cross_road	tell me why did the chicken cross the road
+EastereggWhy_chicken_cross_road	when did the chicken cross the road
+EastereggWhy_chicken_cross_road	why chicken cross the road
+EastereggWhy_chicken_cross_road	why did the chicken cross the road
+EastereggWhy_chicken_cross_road	why didn't the chicken cross the road
+WhatIsTrevor	what is trevor
+WhatIsTrevor	who is trevor
+EastereggFox_sounds	can you answer me what does the fox say
+EastereggFox_sounds	can you show me what does the fox say
+EastereggFox_sounds	can you tell me what does the fox say
+EastereggFox_sounds	do you have an idea what does the fox say
+EastereggFox_sounds	do you know what does the fox say
+EastereggFox_sounds	find out what sound does a fox make
+EastereggFox_sounds	fox say
+EastereggFox_sounds	fox says
+EastereggFox_sounds	what does the fox say
+EastereggFox_sounds	what sound does a fox make
+EastereggFox_sounds	what sounds does a fox make
+DefineSuccess	define success
+AlarmSet	alarm
+AlarmSet	don't forget to wake me up at {timeslot} {recurrenceslot}
+AlarmSet	i need a new alarm for {dateslot} {timeslot}
+AlarmSet	i plan to wake up at {timeslot} {dateslot}
+AlarmSet	new alarm for {dateslot}
+AlarmSet	set an alarm for {timeslot}
+AlarmSet	set my alarm
+AlarmSet	wake me up
+AlarmSet	wake me up only {recurrenceslot}
+AlarmSet	wake me up {recurrenceslot}
+SeeYa	bye
+SeeYa	see ya
